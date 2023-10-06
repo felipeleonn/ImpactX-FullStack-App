@@ -293,6 +293,10 @@ header nav a {
     display: none;
   }
 
+  .closeBtn:hover {
+    opacity: .6;
+  }
+
   .contenedorIzq {
     display: flex;
     align-items: center;
